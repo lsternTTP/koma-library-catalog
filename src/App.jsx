@@ -49,7 +49,7 @@ export default function App() {
     <main>
       <Nav />
       <h1>Library Catalog</h1>
-      <SearchBooks bookToSearch={handleSearch}></SearchBooks>
+      <SearchBooks></SearchBooks>
 
       <div className="flex-books">
         <AllBooks
