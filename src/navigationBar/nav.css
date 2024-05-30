@@ -1,0 +1,23 @@
+
+nav {
+  background-color: #333; /* Set background color */
+  padding: 10px 0; /* Add padding to the top and bottom */
+}
+
+nav ul {
+  list-style-type: none; /* Remove bullet points */
+  margin: 0; /* Remove default margin */
+  padding: 0; /* Remove default padding */
+  text-align: center; /* Align list items to the center */
+}
+
+nav ul li {
+  display: inline; /* Display list items horizontally */
+  margin-right: 20px; /* Add some spacing between list items */
+}
+
+nav ul li a {
+   text-decoration: none; /*Remove underline */
+   color: white; /* Set text color */
+}
+

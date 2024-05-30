@@ -1,0 +1,14 @@
+
+h1 {
+ text-align: center
+  
+}
+
+.flex-books {
+  display: flex;
+  grid-template-rows: 2fr 1fr
+  justify-content: space-between;
+}
+
+
+
