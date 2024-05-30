@@ -55,7 +55,6 @@ export default function App() {
         <AllBooks
           bookList={myBooks}
           addToRequestListHandler={addToRequestListHandler}
-          {/* filterbooks={filteredBooks} */}
         ></AllBooks>
         <AllRequests
           requestList={myRequests}
